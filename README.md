@@ -1,12 +1,10 @@
 # Mobile Akarinti
 
-Hello there, esteemed code reviewer! 👋 Welcome to the Mobile Core project, where we're not just building apps, we're compiling dreams and debugging nightmares! 🚀🐛
+Hello there, code reviewer! 👋 Welcome to the Mobile Core project, where we're not just building apps, we're compiling dreams and debugging nightmares! 🚀🐛
 
-Before you dive into this React Native masterpiece, let me assure you that this project is so cross-platform, it makes the USB-C port jealous. We've got more build configurations than a Lego enthusiast's wildest fantasies!
+Before you dive into this code masterpiece, let me assure you that this project is so cross-platform, it makes the USB-C port jealous. We've got more build configurations than a Lego enthusiast's wildest fantasies!
 
-Remember, in the world of mobile development, we don't have bugs - we have undocumented features. And trust me, we've documented everything here... except maybe where we hid the coffee machine. That's for you to debug! ☕
-
-So, buckle up your development environment, because this project is about to take your code review skills on a journey from 'Hello World' to 'Hello Multiverse'!
+Remember, in the world of mobile development, we don't have bugs - we have undocumented features.
 
 May your builds be swift and your runtime errors be few. Let the review begin! 🎭🖥️
 
