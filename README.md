@@ -18,6 +18,36 @@ May your builds be swift and your runtime errors be few. Let the review begin! ð
 - Android SDK and tools for Android development
 - Xcode for iOS development
 
+
+## Setup React Native Environment
+
+1. Install Node.js and npm:
+   Download and install Node.js (which includes npm) from [nodejs.org](https://nodejs.org/)
+
+2. Install Yarn:
+   ```
+   npm install -g yarn
+   ```
+
+3. Install React Native CLI:
+   ```
+   npm install -g react-native-cli
+   ```
+
+4. Set up Android and iOS development environment:
+   Follow the official React Native documentation for [Android and iOS setup](https://reactnative.dev/docs/set-up-your-environment)
+
+
+5. Clone the repository and install dependencies:
+   ```
+   git clone <repository-url>
+   cd <project-directory>
+   yarn install
+   ```
+
+Now you're ready to start developing with This Project!
+
+
 ## Environment Setup
 
 The project uses different environment configurations for development, staging, and production. Make sure you have the following files in your project root:
