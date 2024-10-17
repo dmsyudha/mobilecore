@@ -62,6 +62,31 @@ Build all release APKs:
 npm run android:build:all:release
 ```
 
+### Build Output Locations
+
+When building APKs for Android, the output locations will be as follows:
+
+- Dev Debug APK:
+  `android/app/build/outputs/apk/dev/debug/app-dev-debug.apk`
+
+- Dev Release APK:
+  `android/app/build/outputs/apk/dev/release/app-dev-release.apk`
+
+- Staging Debug APK:
+  `android/app/build/outputs/apk/staging/debug/app-staging-debug.apk`
+
+- Staging Release APK:
+  `android/app/build/outputs/apk/staging/release/app-staging-release.apk`
+
+- Prod Debug APK:
+  `android/app/build/outputs/apk/prod/debug/app-prod-debug.apk`
+
+- Prod Release APK:
+  `android/app/build/outputs/apk/prod/release/app-prod-release.apk`
+
+These locations are based on the standard output directories for Android Gradle builds. After running the respective build commands, you can find the APK files in these locations within your project directory.
+
+
 ### iOS
 
 Clean the iOS build:
@@ -122,6 +147,5 @@ npm run prettier
 
 ## Note
 
-Make sure to replace "YourProjectName" in the iOS build commands with your actual Xcode project/workspace name.
 
 For iOS builds, ensure you have the necessary certificates, provisioning profiles, and export option plists set up correctly.
